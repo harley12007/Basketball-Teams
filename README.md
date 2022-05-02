@@ -7,3 +7,5 @@ Milwaukee Bucks
 Denver Nuggets
 Portland Trail Blazers
 Los Angeles Lakers
+New York Knicks
+Charlotte Hornets
