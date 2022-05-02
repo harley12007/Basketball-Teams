@@ -6,3 +6,4 @@ Phoenix Suns
 Milwaukee Bucks
 Denver Nuggets
 Portland Trail Blazers
+Los Angeles Lakers
