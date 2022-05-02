@@ -9,3 +9,4 @@ Portland Trail Blazers
 Los Angeles Lakers
 New York Knicks
 Charlotte Hornets
+San Antonio Spurs
