@@ -10,3 +10,5 @@ Los Angeles Lakers
 New York Knicks
 Charlotte Hornets
 San Antonio Spurs
+Boston Celtics
+Miami Heat
