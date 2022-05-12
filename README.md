@@ -1,4 +1,5 @@
 # Basketball-Teams
+Semifinals are going on.
 Memphis Grizzlies
 Golden State Warriors
 76ers
